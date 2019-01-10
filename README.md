@@ -1,5 +1,8 @@
 # Ethicsware
 
+A class taught by Dan Taeyoung as part of the [School for Poetic Computation](http://sfpc.io/)'s 2019 Winter intensive course, [Code Societies](http://sfpc.io/codesocieties-winter-19/)
+
+
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment. 
 
 What is technology that debates and disputes, rather than fulfills our desires?  What is intimate software, created by us, only for us, that debates with our ethical selves? 
