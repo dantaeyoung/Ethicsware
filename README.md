@@ -33,13 +33,12 @@ Here are some of the technologies we will use:
 
 ### Required readings & exercises to prepare for class
 
-Exercise 1:
-
+#### Exercise 1:
 Please think of an example in the past when you realized you were doing something wrong or not so nice. (This is nice to think about, because it's about recalling a time when we got to notice ourselves!) How did you realize this? How soon after it happened? Did other people help you notice it?
 
 We'll share how we realized in class (without sharing the specifics of our actions), as a way to start some discussion.
 
-Exercise 2: 
+#### Exercise 2: 
 Please try one of these implicit bias tests!
 https://implicit.harvard.edu/implicit/takeatest.html
 
