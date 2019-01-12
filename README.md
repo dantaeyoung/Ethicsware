@@ -4,6 +4,8 @@
 
 A class taught by Dan Taeyoung as part of the [School for Poetic Computation](http://sfpc.io/)'s 2019 Winter intensive course, [Code Societies](http://sfpc.io/codesocieties-winter-19/)
 
+![https://github.com/dantaeyoung/Ethicsware/blob/master/smush.jpg](https://github.com/dantaeyoung/Ethicsware/blob/master/smush.jpg)
+
 ### What is technology that does not serve us, but is concerned for us?
 
 Much of the technology we encounter in our daily lives takes the form of a service, and of servitude. Our desires are taken as a given, and technology attempts for fulfillment. 
