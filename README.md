@@ -36,7 +36,9 @@ Here are some of the technologies we will use:
 ### Exercises to prepare for class
 
 #### Exercise 1:
-Please think of an example in the past when you realized you were doing something wrong or not so nice. (This is nice to think about, because it's about recalling a time when we got to notice ourselves!) How did you realize this? How soon after it happened? Did other people help you notice it?
+Please think of an example in the past when you realized you were doing something in a way that you wanted to change. How did you realize this? How soon after it happened? Did other people help you notice it?
+
+**Or, in other words, what were the practices of self-examination that you underwent?**
 
 We'll share how we realized in class (without sharing the specifics of our actions), as a way to start some discussion.
 
