@@ -48,3 +48,6 @@ Please try one of these [implicit bias tests!](https://implicit.harvard.edu/impl
 
 ### Further reading / other interesting things
 https://www.are.na/dan-taeyoung/tools-for-self-examination
+
+### Link to Glitch example:
+https://glitch.com/~magnificent-class
