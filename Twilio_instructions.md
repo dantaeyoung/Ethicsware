@@ -50,7 +50,7 @@ If you sign up with a form of payment at the [billing page](https://www.twilio.c
 
 #### Troubleshooting
 
-If you don't see anything, you can check the logs in Glitch.
+If you don't receive any responses, you can check the logs in Glitch.
  ![imgs/glitch_logs](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_logs.png)
 
  
