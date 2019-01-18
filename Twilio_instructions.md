@@ -39,10 +39,9 @@ Then, this webserver, using our code, will create a response to the text message
 - Now go to this page to set the incoming webhook: https://www.twilio.com/console/phone-numbers/incoming
   - Click on your phone number:
   ![imgs/twilio_4_clicknumber](imgs/twilio_4_clicknumber.png)
-  - And set the webhook.
+  - And set the webhook and hit save.
   ![imgs/twilio_5_setwebhook](imgs/twilio_5_setwebhook.png)
- 
-  The webhook should end in /sms. If you're using Glitch, then it should be something like `https://magnificent-class.glitch.com/sms`.
+    - The webhook should end in /sms. If you're using Glitch, then it should be something like `https://magnificent-class.glitch.com/sms`.
   
   
 - Follow this tutorial: https://www.twilio.com/docs/sms/quickstart/python
