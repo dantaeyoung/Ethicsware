@@ -30,7 +30,7 @@ Then, this webserver, using our code, will create a response to the text message
 ### Twilio:
 1. Sign up for an account
 2. Start a project at this URL: https://www.twilio.com/console/projects/create
-  - Start a 'Programmable SMS' project.
+(Make sure you start a 'Programmable SMS' project.)
 3. After creating a project, buy a phone number at [this link](https://www.twilio.com/console/phone-numbers/search).
   - Search for a number that has SMS enabled, and click buy.
   ![imgs/twilio_2_search](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_2_search.png)
