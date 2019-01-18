@@ -18,7 +18,7 @@ This code creates a web server that receives this requests and processes it to f
 
 Then, this webserver, using our code, will create a response to the text message, and send it back.
 
-## Step-by-step instructions:
+## Step-by-step instructions for SMS setup:
 
 ### Glitch:
 #### 1. Create an account
@@ -52,7 +52,15 @@ Now - everything should work! Try texting your number. You should see a response
 Your messages are probably prepented with the note `Sent from your Twilio trial account -`.
 If you sign up with a form of payment at the [billing page](https://www.twilio.com/console/billing), you won't see the message anymore.
 
-#### Troubleshooting
+## Editing the conversation
+
+All of the code that runs the conversation is in the file `conversation.py`.
+
+This is the exact same code as what runs in the Jupyter Notebook! You can change the rules & patterns in this code to change how the Python server returns a message to Twilio (or, in other words, what text messages you receive as a response).
+
+![imgs/glitch_3_conversation](imgs/glitch_3_conversation.png)
+
+## Troubleshooting
 
 If you don't receive any responses, you can check the logs in Glitch.
  ![imgs/glitch_logs](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_logs.png)
