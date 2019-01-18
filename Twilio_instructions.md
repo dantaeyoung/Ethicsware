@@ -23,9 +23,9 @@ Then, this webserver, using our code, will create a response to the text message
 ### Glitch:
 - Create an account at https://glitch.com.
 - Remix (Copy) [this glitch example](https://glitch.com/edit/#!/magnificent-class)
-![remix_screenshot](imgs/glitch_1_remix.png)
+![remix_screenshot](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_1_remix.png)
 - You should now have a new URL, like `superb-owl.glitch.com`, or such. Click on `show` (with the glasses) to preview it!
-![remix_screenshot](imgs/glitch_2_show.png)
+![remix_screenshot](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_2_show.png)
 
 ### Twilio:
 - Sign up for an account
@@ -33,14 +33,14 @@ Then, this webserver, using our code, will create a response to the text message
   - Start a 'Programmable SMS' project.
 - After creating a project, buy a phone number at [this link](https://www.twilio.com/console/phone-numbers/search).
   - Search for a number that has SMS enabled, and click buy.
-  ![imgs/twilio_2_search](imgs/twilio_2_search.png)
-  ![imgs/twilio_3_buy](imgs/twilio_3_buy.png)
+  ![imgs/twilio_2_search](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_2_search.png)
+  ![imgs/twilio_3_buy](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_3_buy.png)
 - Great! Now your number should be linked with your project.
 - Now go to this page to set the incoming webhook: https://www.twilio.com/console/phone-numbers/incoming
   - Click on your phone number:
-  ![imgs/twilio_4_clicknumber](imgs/twilio_4_clicknumber.png)
+  ![imgs/twilio_4_clicknumber](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_4_clicknumber.png)
   - And set the webhook and hit save.
-  ![imgs/twilio_5_setwebhook](imgs/twilio_5_setwebhook.png)
+  ![imgs/twilio_5_setwebhook](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_5_setwebhook.png)
     - The webhook should end in /sms. If you're using Glitch, then it should be something like `https://magnificent-class.glitch.com/sms`.
   
 Now - everything should work! Try texting your number. You should see a response!
@@ -51,9 +51,6 @@ If you sign up with a form of payment at the [billing page](https://www.twilio.c
 #### Troubleshooting
 
 If you don't see anything, you can check the logs in Glitch.
- ![imgs/glitch_logs](imgs/glitch_logs.png)
+ ![imgs/glitch_logs](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_logs.png)
 
-  
-- Follow this tutorial: https://www.twilio.com/docs/sms/quickstart/python
-  - Buy a number
-  - 
+ 
