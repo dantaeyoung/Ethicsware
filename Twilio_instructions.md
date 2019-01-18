@@ -21,22 +21,22 @@ Then, this webserver, using our code, will create a response to the text message
 ## Step-by-step instructions:
 
 ### Glitch:
-- Create an account at https://glitch.com.
-- Remix (Copy) [this glitch example](https://glitch.com/edit/#!/magnificent-class)
+1. Create an account at https://glitch.com.
+2. Remix (Copy) [this glitch example](https://glitch.com/edit/#!/magnificent-class)
 ![remix_screenshot](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_1_remix.png)
-- You should now have a new URL, like `superb-owl.glitch.com`, or such. Click on `show` (with the glasses) to preview it!
+3. You should now have a new URL, like `superb-owl.glitch.com`, or such. Click on `show` (with the glasses) to preview it!
 ![remix_screenshot](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_2_show.png)
 
 ### Twilio:
-- Sign up for an account
-- Start a project at this URL: https://www.twilio.com/console/projects/create
+1. Sign up for an account
+2. Start a project at this URL: https://www.twilio.com/console/projects/create
   - Start a 'Programmable SMS' project.
-- After creating a project, buy a phone number at [this link](https://www.twilio.com/console/phone-numbers/search).
+3. After creating a project, buy a phone number at [this link](https://www.twilio.com/console/phone-numbers/search).
   - Search for a number that has SMS enabled, and click buy.
   ![imgs/twilio_2_search](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_2_search.png)
   ![imgs/twilio_3_buy](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_3_buy.png)
-- Great! Now your number should be linked with your project.
-- Now go to this page to set the incoming webhook: https://www.twilio.com/console/phone-numbers/incoming
+4. Great! Now your number should be linked with your project.
+5. Now go to this page to set the incoming webhook: https://www.twilio.com/console/phone-numbers/incoming
   - Click on your phone number:
   ![imgs/twilio_4_clicknumber](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/twilio_4_clicknumber.png)
   - And set the webhook and hit save.
