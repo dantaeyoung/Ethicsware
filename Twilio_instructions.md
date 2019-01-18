@@ -53,4 +53,6 @@ If you sign up with a form of payment at the [billing page](https://www.twilio.c
 If you don't receive any responses, you can check the logs in Glitch.
  ![imgs/glitch_logs](https://github.com/dantaeyoung/Ethicsware/blob/master/imgs/glitch_logs.png)
 
- 
+## Your server
+
+You can also run this on your server! We're only using Glitch because it provides a handy way to create a server exposed to the internet.
