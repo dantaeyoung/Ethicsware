@@ -38,12 +38,21 @@ Then, this webserver, using our code, will create a response to the text message
 - Great! Now your number should be linked with your project.
 - Now go to this page to set the incoming webhook: https://www.twilio.com/console/phone-numbers/incoming
   - Click on your phone number:
-  ![imgs/twilio_4_clicknumber][imgs/twilio_4_clicknumber.png]
-  - And set the webhook.
-  ![imgs/twilio_5_setwebhook][imgs/twilio_5_setwebhook.png]
+  ![imgs/twilio_4_clicknumber](imgs/twilio_4_clicknumber.png)
+  - And set the webhook and hit save.
+  ![imgs/twilio_5_setwebhook](imgs/twilio_5_setwebhook.png)
+    - The webhook should end in /sms. If you're using Glitch, then it should be something like `https://magnificent-class.glitch.com/sms`.
   
-  The webhook should end in /sms. If you're using Glitch, then it should be something like `https://magnificent-class.glitch.com/sms`.
-  
+Now - everything should work! Try texting your number. You should see a response!
+
+Your messages are probably prepented with the note `Sent from your Twilio trial account -`.
+If you sign up with a form of payment at the [billing page](https://www.twilio.com/console/billing), you won't see the message anymore.
+
+#### Troubleshooting
+
+If you don't see anything, you can check the logs in Glitch.
+ ![imgs/glitch_logs](imgs/glitch_logs.png)
+
   
 - Follow this tutorial: https://www.twilio.com/docs/sms/quickstart/python
   - Buy a number
