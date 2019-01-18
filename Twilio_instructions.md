@@ -1,6 +1,8 @@
 Twilio integration for Ethicsware
 =======================================
 
+![imgs/sms_example.jpg](imgs/sms_example.jpg)
+
 This lets you use your ethicsware project over text message, so you can text back and forth with a number!
 
 This uses the Twilio API. 
