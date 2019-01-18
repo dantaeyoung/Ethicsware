@@ -52,5 +52,5 @@ https://www.are.na/dan-taeyoung/tools-for-self-examination
 ### Link to Glitch example:
 https://glitch.com/~magnificent-class
 
-https://glitch.com/edit/#!/magnificent-class
-
+## How to setup Twilio/Glitch text messaging:
+https://github.com/dantaeyoung/Ethicsware/blob/master/Twilio_instructions.md
