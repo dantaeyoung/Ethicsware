@@ -2,7 +2,8 @@
 
 # Ethicsware
 
-A class taught by Dan Taeyoung as part of the [School for Poetic Computation](http://sfpc.io/)'s 2019 Winter intensive course, [Code Societies](http://sfpc.io/codesocieties-winter-19/)
+A class taught by Dan Taeyoung as part of [Code Societies](http://sfpc.io/codesocieties-winter-19/),
+the [School for Poetic Computation](http://sfpc.io/)'s 2019 Winter intensive session.
 
 ![smush.jpg](imgs/smush.jpg)
 
